@@ -1,0 +1,24 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "a todo app written with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwong2k16/ToDoApp.git"
+  },
+  "author": "Christopher Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwong2k16/ToDoApp/issues"
+  },
+  "homepage": "https://github.com/cwong2k16/ToDoApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
